@@ -1,9 +1,9 @@
+
 /**
 		Author : Shivani
 		Date  : 28-10-2020
 		Description  : To find the mirror image of entered string 
 */
-
 import java.util.*;
 
 public class MirrorImage {
